@@ -74,7 +74,7 @@
       "command-line-flag": "--@id"
     }
   ],
-  "name": "NucleiSegmentation-ImageJ",
+  "name": "NucleiSegmentation-StephanJanosch",
   "description": "Segment clustered nuclei using a laplacian filter, thresholding and a binary watershed transform",
   "schema-version": "cytomine-0.1",
   "container-image": {
